@@ -1,0 +1,70 @@
+body {
+  background-color: #F7F9FD;
+  background-color: hsl(214, 64%, 98%);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.125rem;
+}
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+}
+
+.mockups-image {
+  width: 55%;
+  display: block;
+  margin: 25px auto 0;
+}
+
+.huddle-logo {
+  margin: 75px;
+}
+
+.subscribe-info {
+  width: 38%;
+}
+
+.top-try {
+  position: absolute;
+  right: 75px;
+  top: 75px;
+}
+
+/*------------------------------------CONTAINERS (DIVS)-----------------------*/
+
+.bottom-container {
+  background-color: #00252E;
+  background-color: hsl(192, 100%, 9%);
+  color: white;
+  padding: 105px;
+}
+
+.bottom-container > div {
+  display: inline-block;
+}
+
+.service-description {
+  text-align: center;
+  margin-bottom: 500px;
+}
+
+/*--------------------------------------BUTTONS------------------------------*/
+
+.btn {
+   background-color: #ffffff;
+   padding: 20px 75px;
+   color: #b885ff;
+   font-family: 'Open Sans', sans-serif;
+   vertical-align: middle;
+   }
+.btn:hover {
+   background-color: #28597a;
+   color: #ccc;
+   }
+.btn:active {
+   background-color: #1b435e;
+   }
